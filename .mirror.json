@@ -1,5 +1,14 @@
 {
- "assets": {},
+ "assets": {
+  "Grass001": "c8ede577b2ad0fdccf5b335ceade16b45d74314f",
+  "Grass002": "9f41a6bc4cd6dfe16360e46c4b0e02e5fd78fa77",
+  "Grass003": "163b6c419d9d16aab30476ee5ba6e585a3d4cc5b",
+  "Grass004": "532f0c3affb0e260297f718bab080d2a79a70c0c",
+  "Grass005": "53634b7239fddc96efa0f3c84eebbe0104b90824",
+  "Grass006": "754edbe82a5cc4674eeb971f955f0b764f509de8",
+  "Grass007": "5c7cf6f2771a5cce925c617e2dc40e5d2b6ed88c",
+  "Grass008": "f99f3835a222f9ae8bb5f98c4cf929a23f7adbe8"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
